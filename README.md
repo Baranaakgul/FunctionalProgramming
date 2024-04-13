@@ -1,1 +1,1 @@
-Hello This is my first sharing project for me.Topic is related to functional programming in java.
+Hello This is my first sharing project.Topic is related to functional programming in java.
